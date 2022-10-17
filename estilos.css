@@ -1,0 +1,45 @@
+strong {
+    color: rgb(248, 11, 11);
+    font-size: x-large;
+  } 
+  
+  .rojo{
+    color: rgb(248, 11, 11);
+    font-size: x-large;
+  }  
+
+  body{
+
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 90px;
+  }
+
+  .texto{
+
+    text-align:right;
+   
+    
+  }
+
+  .btnmorado{
+    color: white;
+    background-color: #3a0877 !important;
+  }
+
+  .btnazul{
+    color: white;
+    background-color: #041a9a !important;
+  }
+
+  .btnamarillo{
+    color: white;
+    background-color: #ea931a !important;
+  }
+
+  div.ex3 {
+    
+ 
+  overflow: auto;
+
+}
